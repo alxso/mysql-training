@@ -1,7 +1,7 @@
 
 
 -- Let's check the tables are all okay.
-SELECT * FROM comment WHERE PostID = 165;
+SELECT * FROM comment;
 SELECT * FROM following;
 SELECT * FROM gender;
 SELECT * FROM liking;
